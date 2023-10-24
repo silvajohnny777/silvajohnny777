@@ -27,7 +27,7 @@ As someone who is passionate about both development and aviation, I am constantl
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvajohnny777&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 
-# 📈 Profile views<br>
+# 📈 Profile views:
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/silvajohnny777/count.svg" />
  </p>
