@@ -21,10 +21,10 @@ As someone who is passionate about both development and aviation, I am constantl
 
 # 💻 Tech Stack:
 <div style="display: flex">
+    <img height="40" src="https://skillicons.dev/icons?i=js,html,css,sass,ts,react,nextjs,redux,nodejs,tailwind,styledcomponents,babel,github,graphql">
     <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png">
     <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
     <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-    <img height="40" src="https://skillicons.dev/icons?i=js,html,css,sass,ts,react,nextjs,redux,nodejs,tailwind,styledcomponents,babel,github,graphql">
 </div>
 
 
