@@ -13,9 +13,9 @@
 <br/>
 <br/>
 
-<img align="right" alt="GIF" width="300" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 As someone who is passionate about both development and aviation, I am constantly seeking to improve my skills in new technologies, with React and front-end development being my preferred areas of focus. Since 2019, I have been working as a React developer, honing my skills by creating new functionalities for existing systems as well as developing new projects from scratch on a daily basis. Working closely with the design team, I provide feedback on template improvements before commencing development. While I typically work from Adobe XD templates, I also have the opportunity to leverage my own design experience to create compelling applications.
+
+<img align="right" alt="GIF" width="300" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <br/>
 
