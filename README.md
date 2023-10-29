@@ -3,11 +3,11 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/silvajohnny777">
-  <img align="left" alt="Jonatha's LinkedIn" width="40" src="https://skillicons.dev/icons?i=linkedin">
+  <img align="left" alt="Jonatha's LinkedIn" width="30" src="https://skillicons.dev/icons?i=linkedin">
 </a>
 
 <a href="https://www.instagram.com/silvajohnny777/">
-  <img align="left" alt="Jonatha's Instagram" width="40" src="https://skillicons.dev/icons?i=instagram">
+  <img align="left" alt="Jonatha's Instagram" width="30" src="https://skillicons.dev/icons?i=instagram">
 </a>
 
 <br/>
