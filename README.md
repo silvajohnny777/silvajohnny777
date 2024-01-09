@@ -1,5 +1,7 @@
 ### Hello! I'm Jonatha
 
+<br/>
+
 <a href="https://www.linkedin.com/in/silvajohnny777">
   <img align="left" alt="Jonatha's LinkedIn" width="30" src="https://skillicons.dev/icons?i=linkedin">
 </a>
